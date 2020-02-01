@@ -25,7 +25,7 @@
   "dependencies": {
     "@types/passport": "^0.4.7",
     "debug": "^3.1.0",
-    "passport": "^0.3.2"
+    "passport": "git+https://github.com/dev800/passport.git"
   },
   "devDependencies": {
     "autod": "^3.0.1",
